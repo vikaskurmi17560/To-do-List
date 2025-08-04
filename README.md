@@ -64,6 +64,6 @@ todolist/
 ## 🚀 Deployment
 
 This project is deployed on **Vercel** for fast and easy hosting.  
-You can access the live app here: `[[Your Vercel URL here](https://to-do-list-silk-zeta-14.vercel.app/)]`
+You can access the live app here: `[https://to-do-list-silk-zeta-14.vercel.app/]`
 
 ---
